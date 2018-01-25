@@ -49,6 +49,7 @@
         android:fullBackupOnly="true"
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round"
+        android:appCategory="productivity"
         android:label="@string/app_label"
         android:requiredForAllUsers="true"
         android:supportsRtl="true"
