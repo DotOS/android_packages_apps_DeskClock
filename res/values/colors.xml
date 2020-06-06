@@ -38,4 +38,6 @@
     <color name="widget_shadow_color">#000000</color>
 
     <color name="ic_launcher_background">#718AB2</color>
+    
+    <color name="accent_color">#FFEB40</color>
 </resources>
